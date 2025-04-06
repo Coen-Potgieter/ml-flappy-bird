@@ -1,7 +1,4 @@
-
-
-
-# Self-Playing Flappy Bird 
+# Self-Playing Flappy Bird 🐤
 
  
 <hr>
